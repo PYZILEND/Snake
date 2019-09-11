@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\PYZILEND\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\PYZILEND\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_SnakeGame.1700308522.00" t="ExcludeRecursive" />
+    <e p="D:\Файлы\Unity\New projects\Snake\SnakeGame" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets\Scripts" t="Include">
+        <e p="GameMaster.cs" t="Include" />
+        <e p="Joystick.cs" t="Include" />
+        <e p="MainMenu.cs" t="Include" />
+        <e p="ObjectPool.cs" t="Include" />
+        <e p="Snake.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="SnakeGame.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
